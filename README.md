@@ -1,7 +1,4 @@
-# nodejs-exercise
-Small vanilla nodejs exercise to get to know it better
-
-Vanilla NodeJS
+# Vanilla NodeJS
 Create a folder then cd into this folder in your terminal and execute:
 npm init
 
