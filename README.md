@@ -2,7 +2,7 @@
 Small vanilla nodejs exercise to get to know it better
 
 Vanilla NodeJS
-Create a folder baby_node then cd into this folder in your terminal and execute:
+Create a folder then cd into this folder in your terminal and execute:
 npm init
 
 # Exercise 0 (Help - NPM)
@@ -42,7 +42,8 @@ const server = http.createServer(function (request, response) {
 });
 server.listen(3000);
 console.log("Server running at http://localhost:3000/");
-Exercise 6
+
+# Exercise 6
 In a file exercise6.js:
 
 Install the module axios and retrieve the html code from google.com.
