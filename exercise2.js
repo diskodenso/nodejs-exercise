@@ -1,6 +1,7 @@
-const fs = require("fs");
+import fs from "fs";
 
-fs.writeFile("test.txt", "Hello", (err) => {
+// use writeFile() to write a new file (test.txt)
+fs.writeFile("test.txt", "Hello from the test.txt file", (err) => {
   if (err) return console.log(err);
   console.log("content written");
 });

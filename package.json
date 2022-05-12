@@ -1,6 +1,7 @@
 {
   "name": "exercises_vanilla",
   "version": "1.0.0",
+  "type": "module",
   "description": "this is a node intro",
   "main": "index.js",
   "scripts": {

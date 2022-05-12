@@ -1,5 +1,6 @@
 import axios from "axios";
 
+// retrieve data from google.com by using axios
 axios
   .get("http://google.com")
   .then((response) => {
